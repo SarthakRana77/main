@@ -41,6 +41,8 @@ const requestHandler = (req, res) => {
 //     handler: requestHandle,
 //     someText: "This is just a hard coded text"
 // };
+
+//test
 exports.handler=requestHandler;
 exports.someText="This is just a hard coded text";
 
